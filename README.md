@@ -71,6 +71,8 @@ Hasil akhir pengaturan Penyimpanan seperti berikut:
 5. Ubah permission **app_data** dan dataset2 didalamnya agar dapat diakses aplikasi dengan menambahkan User - Apps dan Group - Apps 
 ![Pengaturan Permission](./Img/dataset_permission_setting.png)
 
+*pembuatan dataset tambahan bersifat opsional
+
 
 ### 5. Menambahkan Plugin/Library Populer
 
@@ -98,6 +100,8 @@ Hasil akhir pengaturan Penyimpanan seperti berikut:
       - config
       - transcode
       - userdata nextcloud (add additional storage dengan path userdata yang telah dibuat untuk nextcloud)
+
+*bisa juga menggunakan default ixVolume namun perlu penyesuaian untuk userdata nextcloud yang dipass ke jellyfin
 
 ### 6. Mengakses Drive Secara Lokal
 
